@@ -1,4 +1,14 @@
-package insorn.yanin.labs2;
+/**
+ * SavingsCalculator computes the amount in a savings account after a number of years
+ * of compound interest, given principal, annual rate, and years as
+ * three program arguments.
+ * 
+ * Author: Yanin Insorn
+ * ID: 693040430-6
+ * Sec: 1
+ * Last updated: 2026-11-28
+ */
+package insorn.yanin.lab2;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

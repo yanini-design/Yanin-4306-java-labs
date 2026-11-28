@@ -1,4 +1,13 @@
-package insorn.yanin.labs2;
+/**
+ * StudentCard prints a student's name in uppercase, student ID, and age in 2026, 
+ * given name, student ID, and birth year as three program arguments.
+ * 
+ * Author: Yanin Insorn
+ * ID: 693040430-6
+ * Sec: 1
+ * Last updated: 2026-11-28
+ */
+package insorn.yanin.lab2;
 
 public class StudentCard {
     public static void main(String[] args) {

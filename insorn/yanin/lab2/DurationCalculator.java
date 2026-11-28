@@ -1,4 +1,13 @@
-package insorn.yanin.labs2;
+/**
+ * DurationCalculator computes how long an activity took from its start time
+ * and end time, given as six program arguments.
+ * 
+ * Author: Yanin Insorn
+ * ID: 693040430-6
+ * Sec: 1
+ * Last updated: 2026-11-28
+ */
+package insorn.yanin.lab2;
 
 public class DurationCalculator {
     public static void main(String[] args) {

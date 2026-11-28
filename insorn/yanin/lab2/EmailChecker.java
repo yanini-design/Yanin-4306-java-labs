@@ -1,4 +1,13 @@
-package insorn.yanin.labs2;
+/**
+ * EmailChecker checks whether an email address given as 
+ * a program argument is a KKU student email, a KKU staff email, or not a KKU email.
+ * 
+ * Author: Yanin Insorn
+ * ID: 693040430-6
+ * Sec: 1
+ * Last updated: 2026-11-28
+ */
+package insorn.yanin.lab2;
 
 public class EmailChecker {
     public static void main(String[] args) {
