@@ -4,7 +4,7 @@
 - **Student ID:** 693040430-6
 - **Section:** 1
 
-- ## Questions
+## Questions
 
 1. Why must DurationCalculator call Integer.parseInt on each argument before computing with them?
 
